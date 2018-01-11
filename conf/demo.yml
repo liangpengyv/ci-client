@@ -1,0 +1,8 @@
+projectType: android
+repositoryName: TestApplication
+repositoryUrl: https://github.com/liangpengyv/TestApplication.git
+targetBranch: master
+bundleId: online.laoliang.TestApplication
+firToken: 343ad971b9278143e9787f07895ee09c
+changeLog: TEST_TEST_TEST
+emailAddress: mrliangpengyv@qq.com
