@@ -1,2 +1,3 @@
 # ci-client
-A simple client program that provides Continuous Integration services. It runs in the Windows console.
+
+对应服务端程序：[auto-platform](https://github.com/liangpengyv/auto-platform)
